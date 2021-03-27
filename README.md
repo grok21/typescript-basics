@@ -1,2 +1,1 @@
 # typescript-basics
-typescript-basics
